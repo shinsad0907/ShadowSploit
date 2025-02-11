@@ -64,13 +64,5 @@ Nếu bạn gặp khó khăn khi sử dụng ShadowSploit, vui lòng mở Issue 
 
 Tham gia cộng đồng: GitHub Repository
 
-### **Các phần trong README.md**:
 
-- **Giới thiệu về framework**: Cung cấp thông tin cơ bản về **ShadowSploit** và mục đích sử dụng.
-- **Hướng dẫn cài đặt**: Các bước cụ thể để cài đặt framework, bao gồm việc cài đặt môi trường và các thư viện cần thiết.
-- **Cách sử dụng**: Hướng dẫn cụ thể về việc chạy server và tạo payload cho các hệ điều hành khác nhau.
-- **Lưu ý**: Nhấn mạnh việc sử dụng framework này chỉ cho mục đích học thuật và bảo mật.
-- **Liên hệ**: Đưa thông tin liên lạc nếu người dùng gặp khó khăn.
-
-Với cách tiếp cận này, README.md của bạn sẽ hoàn thiện và dễ hiểu cho người dùng khi tham gia sử dụng hoặc đóng góp vào project.
 
