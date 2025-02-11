@@ -9,3 +9,7 @@
 Để sử dụng **ShadowSploit**, bạn cần có Python 3.6 trở lên và các thư viện sau:
 ```bash
 pip install -r requirements.txt
+
+Clone repository về máy của bạn:
+git clone https://github.com/yourusername/ShadowSploit.git
+cd ShadowSploit
