@@ -63,7 +63,6 @@ Không sử dụng cho các hoạt động tấn công bất hợp pháp hoặc 
 Nếu bạn gặp khó khăn khi sử dụng ShadowSploit, vui lòng mở Issue trên GitHub hoặc gửi email cho chúng tôi tại: youremail@example.com.
 
 Tham gia cộng đồng: GitHub Repository
-```bash
 
 ### **Các phần trong README.md**:
 
@@ -75,4 +74,3 @@ Tham gia cộng đồng: GitHub Repository
 
 Với cách tiếp cận này, README.md của bạn sẽ hoàn thiện và dễ hiểu cho người dùng khi tham gia sử dụng hoặc đóng góp vào project.
 
-```
