@@ -22,12 +22,30 @@ Bước 2: Clone repository về máy của bạn:
 git clone https://github.com/shinsad0907/ShadowSploit.git
 cd ShadowSploit
 ```
+1️⃣ Mở PowerShell với quyền Admin:
+Nhấn Win + X, chọn Windows Terminal (Admin) hoặc PowerShell (Admin).
+Nếu bạn không mở bằng quyền Admin, lệnh có thể không có hiệu lực.
+2️⃣ Kiểm tra chính sách hiện tại:
+Nhập lệnh sau và nhấn Enter:
+```bash
+Get-ExecutionPolicy
+```
+Nếu kết quả là Restricted, có nghĩa là script không được phép chạy.
+
+3️⃣ Cho phép chạy script:
+Chạy lệnh sau để cho phép chạy script trên hệ thống:
+```bash
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+```
+Nhấn Y và Enter để xác nhận.
+
 Bước 3: Tạo môi trường ảo (tuỳ chọn):
 ```bash
 python3 -m venv venv
 source venv/bin/activate   # Trên Linux / macOS
 venv\Scripts\activate      # Trên Windows
 ```
+
 Bước 4: Cài đặt các phụ thuộc:
 ```bash
 pip install -r requirements.txt
