@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 Bước 2: Clone repository về máy của bạn:
 ```bash
-git clone https://github.com/yourusername/ShadowSploit.git
+git clone https://github.com/shinsad0907/ShadowSploit.git
 cd ShadowSploit
 ```
 Bước 3: Tạo môi trường ảo (tuỳ chọn):
@@ -130,7 +130,7 @@ Cách tải về và triển khai từ cấu hình sẵn:
 1. Truy cập vào repo cấu hình C2.
 2. Clone repository về máy của bạn:
 ```bash
-git clone https://github.com/yourusername/ShadowSploit-c2-setup.git
+git clone https://github.com/shinsad0907/ShadowSploit-c2-setup.git
 cd ShadowSploit-c2-setup
 ```
 3. Lưu ý rằng repository này đã chứa toàn bộ cấu hình cho Railway. Bạn chỉ cần tải về và triển khai trên Railway theo hướng dẫn dưới đây.
